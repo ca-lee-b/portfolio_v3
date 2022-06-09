@@ -23,7 +23,7 @@
         </div>
         <div class="mt-8">
             <button class="rounded-xl bg-red-900 font-bold text-gray-300 hover:bg-red-700 hover:shadow-glow hover:-translate-y-2 hover:text-white transition duration-100">
-                <a class="py-4 px-8  inline-block w-100 h-100" href="src/assets/resume.pdf" target="_blank">
+                <a class="py-4 px-8  inline-block w-100 h-100" href="/resume.pdf" target="_blank">
                     Download my Resume (PDF)
                 </a>
             </button>
